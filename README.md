@@ -1,49 +1,44 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice ways to reach me
+<a href="https://velog.io/@yeuljliyn/posts" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="mailto:elly3385@gmail.com" target="_blank"><img src="https://img.shields.io/badge/elly3385@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<!--
-**huiyeon0812/huiyeon0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay logic to cinematic cutscenes in Unity and Unreal. I care about smooth controls, clear structure, and emotionally engaging interactions. 🎥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
 
-<div align="center">
+### Personal stats:
+<details>
+  <summary>Highlights / Proficiencies</summary>
 
-# 👋 Hi, I'm Huiyeon
+  <br/>
 
-꾸준히 배우고 기록하는 개발자입니다.
+  <strong>Highlights</strong>  
+  - ⭐ Developed <em>Tales in Fragments</em>, an emotion-recognition based interactive storytelling game using Unity, Cinemachine, and iPhone Live Capture.  
+  - ⭐ Built VR/MR-based virtual hospital training content as a Unity programmer in a cross-disciplinary team (nursing · animation · game).  
+  - ⭐ Implemented combat systems, state machines, and camera effects for an action RPG shooter prototype (<em>Hafly</em>), which received a departmental encouragement award.  
+  - ⭐ Set up a GitHub collaboration workflow for multi-member Unity projects, reducing build conflicts and improving team productivity.
 
-<a href="https://github.com/huiyeon0812">
-  <img src="https://img.shields.io/badge/GitHub-huiyeon0812-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+  <br/>
 
-</div>
+  <strong>Proficiencies</strong>  
+  - 📚 Languages: C#, C++, Python, Java  
+  - 🎮 Game Engines & Tools: Unity, Unreal Engine, Cinemachine, Timeline  
+  - 🧠 AI & Computer Vision: Python, OpenCV, basic reinforcement learning & media processing  
+  - 🔧 Collaboration & Etc.: Git, GitHub, Notion
+</details>
 
-## 📊 GitHub Stats
+### 💪 Skills
 
-<div align="center">
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=huiyeon0812&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiyeon0812&layout=compact&theme=tokyonight" height="165"/>
+----
 
-</div>
-
-## 🛠️ Tech Stack
-
-<!-- 사용하는 기술 배지를 여기에 추가하세요 -->
-
-## 📌 Projects
-
-<!-- 대표 프로젝트를 여기에 추가하세요 -->
-
-## 📫 Contact
-
-<!-- 이메일, 블로그, 링크 등을 추가하세요 -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)

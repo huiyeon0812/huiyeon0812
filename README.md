@@ -4,7 +4,7 @@
 
 ----
 
-Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay logic to cinematic cutscenes in Unity and Unreal. I care about smooth controls, clear structure, and emotionally engaging interactions. 🎥
+Hi! I am a Medical AI graduate student in an integrated Master’s and PhD program.
 
 ----
 
@@ -23,8 +23,7 @@ Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay lo
   <br/>
 
   <strong>Proficiencies</strong>  
-  - 📚 Languages: C#, C++, Python, Java  
-  - 🎮 Game Engines & Tools: Unity, Unreal Engine, Cinemachine, Timeline  
+  - 📚 Languages: Python, R  
   - 🧠 AI & Computer Vision: Python, OpenCV, basic reinforcement learning & media processing  
   - 🔧 Collaboration & Etc.: Git, GitHub, Notion
 </details>

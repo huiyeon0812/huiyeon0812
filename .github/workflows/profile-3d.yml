@@ -1,24 +1,34 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN }}
+
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: huiyeon0812
+
       - name: Commit & Push
         run: |
-          git config user.name huiyeon0812
-          git config user.email huiyeon0812@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          git config user.name "huiyeon0812"
+          git config user.email "huiyeon0812@github.com"
+          git add profile-3d-contrib/profile-night-rainbow.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "generated"
+            git push
+          else
+            echo "No changes"
+          fi

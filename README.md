@@ -14,11 +14,7 @@ Hi! I am a Medical AI graduate student in an integrated Master’s and PhD progr
   <br/>
 
   <strong>Highlights</strong>  
-  - ⭐ Developed <em>Tales in Fragments</em>, an emotion-recognition based interactive storytelling game using Unity, Cinemachine, and iPhone Live Capture.  
-  - ⭐ Built VR/MR-based virtual hospital training content as a Unity programmer in a cross-disciplinary team (nursing · animation · game).  
-  - ⭐ Implemented combat systems, state machines, and camera effects for an action RPG shooter prototype (<em>Hafly</em>), which received a departmental encouragement award.  
-  - ⭐ Set up a GitHub collaboration workflow for multi-member Unity projects, reducing build conflicts and improving team productivity.
-
+  - ⭐
   <br/>
 
   <strong>Proficiencies</strong>  
@@ -30,6 +26,7 @@ Hi! I am a Medical AI graduate student in an integrated Master’s and PhD progr
 ### 💪 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 

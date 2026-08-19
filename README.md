@@ -41,4 +41,4 @@ Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay lo
 
 ----
 
-![](./profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
